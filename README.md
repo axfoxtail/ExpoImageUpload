@@ -6,4 +6,9 @@
 
 ### Reference guide
 
-`docs.expo.io/tutorial/image-picker/`
+<a href="https://docs.expo.io/tutorial/image-picker/">
+  docs.expo.io/tutorial/image-picker/
+</a>
+
+### Screenshot
+![ExpoImageUpload](screenshot.png)
